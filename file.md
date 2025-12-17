@@ -1,1 +1,3 @@
-I am the main branch 
+I am the main branch.
+
+now doing the conflicts
